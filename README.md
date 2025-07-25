@@ -108,3 +108,5 @@ For questions or support, please open an issue in the GitHub repository.
 ---
 
 **Note**: This is a smart contract project. Always test thoroughly on devnet/testnet before mainnet deployment.
+## Version History
+- v1.0.0: Initial marketplace implementation
